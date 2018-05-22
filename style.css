@@ -1,0 +1,28 @@
+.bg-main
+{
+    background: url('robot.jpg') no-repeat;
+background-size: cover;
+}
+.styling
+{
+  
+    padding: 40;
+    margin:30;
+   
+}
+.bg{
+ background-color: skyblue;
+ margin:10px;
+ padding:15px;
+ margin-top:180px;
+ 
+}
+.width
+{
+    width: 500px;
+    height: 500px;
+}
+.text
+{
+    font-size: 40px;
+}
